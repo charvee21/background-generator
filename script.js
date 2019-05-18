@@ -7,6 +7,7 @@ function q1() {
         a = 3;
     }
     alert(a); //3
+    console.log(a);
 }
 
 //#2
